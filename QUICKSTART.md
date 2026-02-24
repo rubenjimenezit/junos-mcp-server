@@ -5,7 +5,7 @@ This guide walks you through setting up the Juniper MCP Server on Windows using 
 ## Prerequisites
 
 - Windows with WSL2 (Ubuntu)
-- Docker Desktop installed and configured for WSL2
+- Docker Desktop installed, configured and running for WSL2
 - VSCode installed on Windows
 - SSH key for accessing Junos devices
 
